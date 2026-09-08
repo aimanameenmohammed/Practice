@@ -24,6 +24,7 @@ namespace Practice
             public float Result {  get; set; }
             public float Value1 { get; set; }
             public float Value2 { get; set; }
+            public float Value3 { get; set; }
 
 
            public CalculationCompletedEventArgs(float Result,float Value1,float Value2)
